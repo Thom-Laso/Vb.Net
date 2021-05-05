@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Basic Express 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "String_Class_CompareTo", "String_Class_CompareTo\String_Class_CompareTo.vbproj", "{8CCFACAE-3CD3-44B9-9CD0-B8B360EFEBFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CCFACAE-3CD3-44B9-9CD0-B8B360EFEBFE}.Debug|x86.ActiveCfg = Debug|x86
+		{8CCFACAE-3CD3-44B9-9CD0-B8B360EFEBFE}.Debug|x86.Build.0 = Debug|x86
+		{8CCFACAE-3CD3-44B9-9CD0-B8B360EFEBFE}.Release|x86.ActiveCfg = Release|x86
+		{8CCFACAE-3CD3-44B9-9CD0-B8B360EFEBFE}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

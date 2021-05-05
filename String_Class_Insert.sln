@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Basic Express 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "String_Class_Insert", "String_Class_Insert\String_Class_Insert.vbproj", "{97FE956E-BB87-4C10-B7BF-CE3549504DED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97FE956E-BB87-4C10-B7BF-CE3549504DED}.Debug|x86.ActiveCfg = Debug|x86
+		{97FE956E-BB87-4C10-B7BF-CE3549504DED}.Debug|x86.Build.0 = Debug|x86
+		{97FE956E-BB87-4C10-B7BF-CE3549504DED}.Release|x86.ActiveCfg = Release|x86
+		{97FE956E-BB87-4C10-B7BF-CE3549504DED}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
